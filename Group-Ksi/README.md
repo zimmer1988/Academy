@@ -9,7 +9,7 @@
 3. :books: [Books](#books)
 4. :100: [Mustknow](#mustknow)
 5. :link: [Links](#links)
-6. :link: [JS Links](#js-Links)
+6. :link: [JS Links](#js-links)
 7. :white_check_mark: [Style Guides](#style-guides)
 8. :movie_camera: [Videos](#videos)
 
