@@ -22,14 +22,14 @@
 
 Topic                  | Who (GitHub Profile)                          |         Theory          |      Practice
 :--------------------- | :-------------------------------------------- | :---------------------: | :----------------:
-1\. FreeCodeCamp Score | [ReplaceIt](https://try.github.io/)           | :eight_spoked_asterisk: |       :free:
+1\. FreeCodeCamp Score | [freeCodeCamp](https://www.freecodecamp.com/) | :eight_spoked_asterisk: |       :free:
 =                      | [Владимир К.](https://github.com/borodinchik) |            ?            |   :white_circle:
 =                      | [Александр И.](https://github.com/alexakuna)  |            ?            |   :white_circle:
 =                      | [Артем П.](https://github.com/ArtemPychenko)  |            ?            |   :white_circle:
 =                      | [Дмитрий М.](https://github.com/Dmytraw)      |            ?            |   :white_circle:
 =                      | [Денис К.](https://github.com/DenisKuznecov)  |            ?            |   :white_circle:
 =                      | [Дмитрий Р.](https://github.com/katanji)      |            ?            |   :white_circle:
-2\. Git/GitHub         | [Practice](https://try.github.io/)            |        :octocat:        |    :sunglasses:
+2\. Git/GitHub         | [Practice GitHub](https://try.github.io/)     |        :octocat:        |    :sunglasses:
 =                      | [Владимир К.](https://github.com/borodinchik) |     :white_circle:      |   :white_circle:
 =                      | [Александр И.](https://github.com/alexakuna)  |     :white_circle:      |   :white_circle:
 =                      | [Артем П.](https://github.com/ArtemPychenko)  |   :white_check_mark:    | :white_check_mark:
