@@ -4,13 +4,13 @@
 
 ## Navigation
 
-1. :information_source: [Info](#Info)
-2. :floppy_disk: [Software](#Software)
-3. :books: [Books](#Books)
-4. :100: [Mustknow](#Mustknow)
-5. :link: [Links](#Links)
-6. :link: [JS Links](#JS-Links)
-7. :white_check_mark: [Style Guides](#Style-Guides)
+1. :information_source: [Info](#info)
+2. :floppy_disk: [Software](#software)
+3. :books: [Books](#books)
+4. :100: [Mustknow](#mustknow)
+5. :link: [Links](#links)
+6. :link: [JS Links](#js-Links)
+7. :white_check_mark: [Style Guides](#style-guides)
 
 ## Info
 
