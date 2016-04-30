@@ -1,4 +1,4 @@
-# Welcome to Group 2 repository (20160430)
+# Welcome to Group-Ksi (Ξξ) repository (20160430)
 
 > current mentor Artur P.
 
