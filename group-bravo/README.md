@@ -5,11 +5,7 @@ current mentor [Anton Skochko](https://github.com/AntonSkochko)
 
 
 ----------
-[Studying](#Studying)
-[Resourses/Help](#Resourses)
-
-----------
-## # Studying:
+##Studying
 **1.Learning git (Version Control System(s))**
 
  - [try git](https://try.github.io/levels/1/challenges/1) - from [Code School](https://www.codeschool.com/)
@@ -18,7 +14,7 @@ current mentor [Anton Skochko](https://github.com/AntonSkochko)
 
 **2.Coming soon!**
 
-## # Resourses
+##Resourses
 
 ###1.Academies/Schools:
 
@@ -26,7 +22,7 @@ current mentor [Anton Skochko](https://github.com/AntonSkochko)
  - [Code School](https://www.codeschool.com/)
  - [codecademy](https://www.codecademy.com/)
 
-###2.Books
+###2.Books:
 HTML+CSS
 
   JavaScript
