@@ -32,7 +32,7 @@ Topic                  | Who (GitHub Profile)                          |        
 2\. Git/GitHub         | [Practice](https://try.github.io/)            |        :octocat:        |    :sunglasses:
 =                      | [Владимир К.](https://github.com/borodinchik) |     :white_circle:      |   :white_circle:
 =                      | [Александр И.](https://github.com/alexakuna)  |     :white_circle:      |   :white_circle:
-=                      | [Артем П.](https://github.com/ArtemPychenko)  |     :white_check_mark:  | :white_check_mark:
+=                      | [Артем П.](https://github.com/ArtemPychenko)  |   :white_check_mark:    | :white_check_mark:
 =                      | [Дмитрий М.](https://github.com/Dmytraw)      |     :white_circle:      |   :white_circle:
 =                      | [Денис К.](https://github.com/DenisKuznecov)  |     :white_circle:      |   :white_circle:
 =                      | [Дмитрий Р.](https://github.com/katanji)      |     :white_circle:      |   :white_circle:
@@ -79,6 +79,12 @@ Topic                  | Who (GitHub Profile)                          |        
 - [js-by-examples](https://github.com/bmkmanoj/js-by-examples)
 - [pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.1qaexrxzx)
 
+### JS Patterns
+
+- [joshbedo JS-Design-Patterns](https://joshbedo.github.io/JS-Design-Patterns/)
+- [TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
+- [js_designpatterns](https://github.com/nnupoor/js_designpatterns#javascript-design-patterns-cheat-sheet-using-jquery-for-some-examples)
+
 ## Style Guides
 
 - [HTML, ru, forwebdev](http://forwebdev.ru/html/principles-for-writing-idiomatic-html/)
@@ -87,6 +93,7 @@ Topic                  | Who (GitHub Profile)                          |        
 - [ES2015](https://github.com/airbnb/javascript)
 
 ## Videos
+
 - [About Time and Sport](https://youtu.be/YiPN0A-y3xQ)
 
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
