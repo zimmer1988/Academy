@@ -11,6 +11,7 @@
 5. :link: [Links](#links)
 6. :link: [JS Links](#js-Links)
 7. :white_check_mark: [Style Guides](#style-guides)
+8. :movie_camera: [Videos](#videos)
 
 ## Info
 
@@ -31,7 +32,7 @@ Topic                  | Who (GitHub Profile)                          |        
 2\. Git/GitHub         | [Practice](https://try.github.io/)            |        :octocat:        |    :sunglasses:
 =                      | [Владимир К.](https://github.com/borodinchik) |     :white_circle:      |   :white_circle:
 =                      | [Александр И.](https://github.com/alexakuna)  |     :white_circle:      |   :white_circle:
-=                      | [Артем П.](https://github.com/ArtemPychenko)  |     :white_circle:      | :white_check_mark:
+=                      | [Артем П.](https://github.com/ArtemPychenko)  |     :white_check_mark:  | :white_check_mark:
 =                      | [Дмитрий М.](https://github.com/Dmytraw)      |     :white_circle:      |   :white_circle:
 =                      | [Денис К.](https://github.com/DenisKuznecov)  |     :white_circle:      |   :white_circle:
 =                      | [Дмитрий Р.](https://github.com/katanji)      |     :white_circle:      |   :white_circle:
@@ -84,5 +85,8 @@ Topic                  | Who (GitHub Profile)                          |        
 - [HTML/CSS, en, workmanship](http://workmanship.io/)
 - [ES5](https://github.com/airbnb/javascript/tree/master/es5)
 - [ES2015](https://github.com/airbnb/javascript)
+
+## Videos
+- [About Time and Sport](https://youtu.be/YiPN0A-y3xQ)
 
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
