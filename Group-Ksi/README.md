@@ -24,10 +24,10 @@ Topic                  | Who (GitHub Profile)                          |        
 :--------------------- | :-------------------------------------------- | :---------------------: | :----------------:
 1\. FreeCodeCamp Score | [freeCodeCamp](https://www.freecodecamp.com/) | :eight_spoked_asterisk: |       :free:
 =                      | [Владимир К.](https://github.com/borodinchik) |            ?            |   :white_circle:
-=                      | [Александр И.](https://github.com/alexakuna)  |            ?            |   :white_circle:
-=                      | [Артем П.](https://github.com/ArtemPychenko)  |            ?            |   :white_circle:
-=                      | [Дмитрий М.](https://github.com/Dmytraw)      |            ?            |   :white_circle:
-=                      | [Денис К.](https://github.com/DenisKuznecov)  |            ?            |   :white_circle:
+=                      | [Александр И.](https://github.com/alexakuna)  |           47            |   :white_circle:
+=                      | [Артем П.](https://github.com/ArtemPychenko)  |           310           |   :white_circle:
+=                      | [Дмитрий М.](https://github.com/Dmytraw)      |           278           |   :white_circle:
+=                      | [Денис К.](https://github.com/DenisKuznecov)  |           170           |   :white_circle:
 =                      | [Дмитрий Р.](https://github.com/katanji)      |            ?            |   :white_circle:
 2\. Git/GitHub         | [Practice GitHub](https://try.github.io/)     |        :octocat:        |    :sunglasses:
 =                      | [Владимир К.](https://github.com/borodinchik) |     :white_circle:      |   :white_circle:
@@ -39,20 +39,22 @@ Topic                  | Who (GitHub Profile)                          |        
 
 ### Future topics
 
-1. Tooling | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-2. HTML/CSS Advanced | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-3. Software | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-4. DevTools Browser | [discover-devtools](http://discover-devtools.codeschool.com/) | :white_circle: | :white_circle:
-5. Tools | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-6. NodeJS Basic | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-7. NPM/Bower | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-8. Gulp 3/4 | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-9. ES2015 | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-10. Frameworks Basic | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-11. Hexlet Programmer Life | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-12. Hexlet OS | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-13. Hexlet Logic | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-14. SemVer | [ReplaceIt](http://semver.org/) | :white_circle: | :white_circle:
+1. Command Line, codecademy | [Command Line, codecademy](https://www.codecademy.com/learn/learn-the-command-line) | :white_circle: | :white_circle:
+2. Hexlet Bash | [Hexlet Bash](https://ru.hexlet.io/courses/bash) | :white_circle: | :white_circle:
+3. Tooling | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
+4. HTML/CSS Advanced | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
+5. Software | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
+6. DevTools Browser | [discover-devtools](http://discover-devtools.codeschool.com/) | :white_circle: | :white_circle:
+7. Tools | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
+8. NodeJS Basic | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
+9. NPM/Bower | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
+10. Gulp 3/4 | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
+11. ES2015 | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
+12. Frameworks Basic | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
+13. Hexlet Programmer Life | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
+14. Hexlet OS | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
+15. Hexlet Logic | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
+16. SemVer | [ReplaceIt](http://semver.org/) | :white_circle: | :white_circle:
 
 ## Software
 
