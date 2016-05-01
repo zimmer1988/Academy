@@ -6,6 +6,11 @@ current mentor [Anton Skochko](https://github.com/AntonSkochko)
 
 ----------
 ##Studying
+
+**0. console/terminal/bash**
+-[learn bash](https://ru.hexlet.io/courses/bash) with hexlet.io
+-[learn commane line](https://ru.hexlet.io/courses/bash) -  with codecademy
+
 **1.Learning git (Version Control System(s))**
 
  - [try git](https://try.github.io/levels/1/challenges/1) - from [Code School](https://www.codeschool.com/)
