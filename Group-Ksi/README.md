@@ -28,7 +28,7 @@ Topic                  | Who (GitHub Profile)                          |        
 =                      | [Артем П.](https://github.com/ArtemPychenko)  |           310           |   :white_circle:
 =                      | [Дмитрий М.](https://github.com/Dmytraw)      |           278           |   :white_circle:
 =                      | [Денис К.](https://github.com/DenisKuznecov)  |           170           |   :white_circle:
-=                      | [Дмитрий Р.](https://github.com/katanji)      |            ?            |   :white_circle:
+=                      | [Дмитрий Р.](https://github.com/katanji)      |           82            |   :white_circle:
 2\. Git/GitHub         | [Practice GitHub](https://try.github.io/)     |        :octocat:        |    :sunglasses:
 =                      | [Владимир К.](https://github.com/borodinchik) |     :white_circle:      |   :white_circle:
 =                      | [Александр И.](https://github.com/alexakuna)  |     :white_circle:      |   :white_circle:
@@ -91,7 +91,9 @@ Topic                  | Who (GitHub Profile)                          |        
 
 - [HTML, ru, forwebdev](http://forwebdev.ru/html/principles-for-writing-idiomatic-html/)
 - [HTML/CSS, en, workmanship](http://workmanship.io/)
-- [ES5](https://github.com/airbnb/javascript/tree/master/es5)
+- [HTML/CSS, en, google](https://google.github.io/styleguide/htmlcssguide.xml)
+- [ES5, en, google](https://google.github.io/styleguide/javascriptguide.xml)
+- [ES5, en, airbnb](https://github.com/airbnb/javascript/tree/master/es5)
 - [ES2015](https://github.com/airbnb/javascript)
 
 ## Videos
