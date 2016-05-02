@@ -94,6 +94,7 @@ Topic                  | Who (GitHub Profile)                          |        
 - [HTML/CSS, en, google](https://google.github.io/styleguide/htmlcssguide.xml)
 - [ES5, en, google](https://google.github.io/styleguide/javascriptguide.xml)
 - [ES5, en, airbnb](https://github.com/airbnb/javascript/tree/master/es5)
+- [ES5 Idiomatic, ru/en, rwaldron](https://github.com/rwaldron/idiomatic.js/tree/master/translations/ru_RU)
 - [ES2015](https://github.com/airbnb/javascript)
 
 ## Videos
