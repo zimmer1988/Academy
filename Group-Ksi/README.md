@@ -24,7 +24,7 @@ Topic                  | Who (GitHub Profile)                          |        
 :--------------------- | :-------------------------------------------- | :---------------------: | :----------------:
 1\. FreeCodeCamp Score | [freeCodeCamp](https://www.freecodecamp.com/) | :eight_spoked_asterisk: |       :free:
 =                      | [Владимир К.](https://github.com/borodinchik) |            ?            |   :white_circle:
-=                      | [Александр И.](https://github.com/alexakuna)  |           47            |   :white_circle:
+=                      | [Александр И.](https://github.com/alexakuna)  |           100           |   :white_circle:
 =                      | [Артем П.](https://github.com/ArtemPychenko)  |           310           |   :white_circle:
 =                      | [Дмитрий М.](https://github.com/Dmytraw)      |           278           |   :white_circle:
 =                      | [Денис К.](https://github.com/DenisKuznecov)  |           170           |   :white_circle:
