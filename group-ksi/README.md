@@ -1,6 +1,6 @@
 # Welcome to Group-Ksi (Ξξ) repository (20160430)
 
-> current mentor Artur P.
+> current mentor [Artur P.](https://github.com/arturparkhisenko)
 
 ## Navigation
 
@@ -24,7 +24,7 @@ Topic                  | Who (GitHub Profile)                          |        
 :--------------------- | :-------------------------------------------- | :---------------------: | :----------------:
 1\. FreeCodeCamp Score | [freeCodeCamp](https://www.freecodecamp.com/) | :eight_spoked_asterisk: |       :free:
 =                      | [Владимир К.](https://github.com/borodinchik) |            ?            |   :white_circle:
-=                      | [Александр И.](https://github.com/alexakuna)  |           100           |   :white_circle:
+=                      | [Александр И.](https://github.com/alexakuna)  |           132           |   :white_circle:
 =                      | [Артем П.](https://github.com/ArtemPychenko)  |           310           |   :white_circle:
 =                      | [Дмитрий М.](https://github.com/Dmytraw)      |           278           |   :white_circle:
 =                      | [Денис К.](https://github.com/DenisKuznecov)  |           170           |   :white_circle:
@@ -70,6 +70,8 @@ Topic                  | Who (GitHub Profile)                          |        
 
 - [Composition over Inheritance, funfunfunction](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 - [Абсолютные и относительные ссылки](http://htmlbook.ru/samhtml/ssylki/absolyutnye-i-otnositelnye-ssylki)
+- [dom, on learn.javascript.ru](https://learn.javascript.ru/document)
+- [events, on learn.javascript.ru](https://learn.javascript.ru/events-and-interfaces)
 
 ## Links
 
@@ -80,6 +82,8 @@ Topic                  | Who (GitHub Profile)                          |        
 - [junior-middle-senior, ru](http://frontender.info/programmirovanie-klassami-v-veb-prilozheniyakh/)
 - [js-by-examples](https://github.com/bmkmanoj/js-by-examples)
 - [pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.1qaexrxzx)
+
+<http://webtackles.ru/javascript/js-modules-beginners-guide/> <http://webtackles.ru/javascript/js-module-bundling/>
 
 ### JS Patterns
 
