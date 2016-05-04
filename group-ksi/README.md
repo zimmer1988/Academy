@@ -82,8 +82,8 @@ Topic                  | Who (GitHub Profile)                          |        
 - [junior-middle-senior, ru](http://frontender.info/programmirovanie-klassami-v-veb-prilozheniyakh/)
 - [js-by-examples](https://github.com/bmkmanoj/js-by-examples)
 - [pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.1qaexrxzx)
-
-<http://webtackles.ru/javascript/js-modules-beginners-guide/> <http://webtackles.ru/javascript/js-module-bundling/>
+- [js modules, ru, webtackles](http://webtackles.ru/javascript/js-modules-beginners-guide/)
+- [js module bundling, ru, webtackles](http://webtackles.ru/javascript/js-module-bundling/)
 
 ### JS Patterns
 
