@@ -71,7 +71,7 @@ Topic                  | Who (GitHub Profile)                          |        
 - [Composition over Inheritance, funfunfunction](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 - [Абсолютные и относительные ссылки](http://htmlbook.ru/samhtml/ssylki/absolyutnye-i-otnositelnye-ssylki)
 - [dom, on learn.javascript.ru](https://learn.javascript.ru/document)
-- [events, on learn.javascript.ru](hhttps://learn.javascript.ru/events-and-interfaces)
+- [events, on learn.javascript.ru](https://learn.javascript.ru/events-and-interfaces)
 
 ## Links
 
