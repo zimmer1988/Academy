@@ -25,17 +25,17 @@ Topic                  | Who (GitHub Profile)                          |        
 1\. FreeCodeCamp Score | [freeCodeCamp](https://www.freecodecamp.com/) | :eight_spoked_asterisk: |       :free:
 =                      | [Владимир К.](https://github.com/borodinchik) |            ?            |   :white_circle:
 =                      | [Александр И.](https://github.com/alexakuna)  |           132           |   :white_circle:
-=                      | [Артем П.](https://github.com/ArtemPychenko)  |           310           |   :white_circle:
+=                      | [Артем П.](https://github.com/ArtemPychenko)  |           310           | :white_check_mark:
 =                      | [Дмитрий М.](https://github.com/Dmytraw)      |           278           |   :white_circle:
 =                      | [Денис К.](https://github.com/DenisKuznecov)  |           170           |   :white_circle:
-=                      | [Дмитрий Р.](https://github.com/katanji)      |           82            |   :white_circle:
+=                      | [Дмитрий Р.](https://github.com/katanji)      |           109           |   :white_circle:
 2\. Git/GitHub         | [Practice GitHub](https://try.github.io/)     |        :octocat:        |    :sunglasses:
-=                      | [Владимир К.](https://github.com/borodinchik) |     :white_circle:      |   :white_circle:
-=                      | [Александр И.](https://github.com/alexakuna)  |     :white_circle:      |   :white_circle:
+=                      | [Владимир К.](https://github.com/borodinchik) |   :white_check_mark:    |   :white_circle:
+=                      | [Александр И.](https://github.com/alexakuna)  |   :white_check_mark:    |   :white_circle:
 =                      | [Артем П.](https://github.com/ArtemPychenko)  |   :white_check_mark:    | :white_check_mark:
-=                      | [Дмитрий М.](https://github.com/Dmytraw)      |     :white_circle:      |   :white_circle:
-=                      | [Денис К.](https://github.com/DenisKuznecov)  |     :white_circle:      |   :white_circle:
-=                      | [Дмитрий Р.](https://github.com/katanji)      |     :white_circle:      |   :white_circle:
+=                      | [Дмитрий М.](https://github.com/Dmytraw)      |   :white_check_mark:    |   :white_circle:
+=                      | [Денис К.](https://github.com/DenisKuznecov)  |   :white_check_mark:    |   :white_circle:
+=                      | [Дмитрий Р.](https://github.com/katanji)      |   :white_check_mark:    | :white_check_mark:
 
 ### Future topics
 
@@ -72,6 +72,14 @@ Topic                  | Who (GitHub Profile)                          |        
 - [Абсолютные и относительные ссылки](http://htmlbook.ru/samhtml/ssylki/absolyutnye-i-otnositelnye-ssylki)
 - [dom, on learn.javascript.ru](https://learn.javascript.ru/document)
 - [events, on learn.javascript.ru](https://learn.javascript.ru/events-and-interfaces)
+
+## Online courses
+
+- [Code School](https://www.codeschool.com/)
+- [Codecademy](https://www.codecademy.com/)
+- [Egghead](https://egghead.io)
+- [freeCodeCamp](https://www.freecodecamp.com)
+- [Hexlet](https://ru.hexlet.io/)
 
 ## Links
 
