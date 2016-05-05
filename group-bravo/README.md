@@ -7,10 +7,10 @@ current mentor [Anton Skochko](https://github.com/AntonSkochko)
 ----------
 ##**Navigation**
 
- 1.[Studying](#studying)
- 2.[Tools](#tools)
- 3.[Schools](#schools)
- 4.[Books](#books)
+ 1. [Studying](#studying) 
+ 2.  [Tools](#tools)  
+ 3. [Schools](#schools) 
+ 4. [Books](#books)
 
 ##**Studying**
 
