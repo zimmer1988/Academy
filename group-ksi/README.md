@@ -92,6 +92,8 @@ Topic                  | Who (GitHub Profile)                          |        
 - [pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.1qaexrxzx)
 - [js modules, ru, webtackles](http://webtackles.ru/javascript/js-modules-beginners-guide/)
 - [js module bundling, ru, webtackles](http://webtackles.ru/javascript/js-module-bundling/)
+- [functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
+- [webstandards ru, dictionary](https://github.com/web-standards-ru/dictionary)
 
 ### JS Patterns
 
