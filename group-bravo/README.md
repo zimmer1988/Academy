@@ -7,9 +7,9 @@ current mentor [Anton Skochko](https://github.com/AntonSkochko)
 ----------
 ##**Navigation**
 
-1.[Studying](#Studying)
-2.[Tools](#Tools)
-3.[Academies/Schools](#Academies/Schools)
+1.[Studying](#studying)
+2.[Tools](#tools)
+3.[Schools](#schools)
 4.[Books](#books)
 
 ##**Studying**
@@ -29,7 +29,7 @@ current mentor [Anton Skochko](https://github.com/AntonSkochko)
 
 
 
-## **Tools:**
+## **Tools**
 1.Text editors:
 
  - [SublimeText](https://www.sublimetext.com/)
@@ -42,13 +42,13 @@ current mentor [Anton Skochko](https://github.com/AntonSkochko)
  - [WebStorm](https://www.jetbrains.com/webstorm/) ($)
  - [PhpStorm](https://www.jetbrains.com/phpstorm/) ($)
  
-## **Academies/Schools:**
+## **Schools**
 
  - [freeCodeCamp](https://www.freecodecamp.com)
  - [Code School](https://www.codeschool.com/)
  - [codecademy](https://www.codecademy.com/)
 
-## **Books:**
+## **Books**
 HTML+CSS
 
   JavaScript
