@@ -5,9 +5,17 @@ current mentor [Anton Skochko](https://github.com/AntonSkochko)
 
 
 ----------
-##Studying
+##**Navigation**
+
+1.[Studying](#Studying)
+2.[Tools](#Tools)
+3.[Academies/Schools](#Academies/Schools)
+4.[Books](#books)
+
+##**Studying**
 
 **0. console/terminal/bash**
+
 -[learn bash](https://ru.hexlet.io/courses/bash) with hexlet.io
 -[learn commane line](https://ru.hexlet.io/courses/bash) -  with codecademy
 
@@ -19,15 +27,28 @@ current mentor [Anton Skochko](https://github.com/AntonSkochko)
 
 **2.Coming soon!**
 
-##Resourses
 
-###1.Academies/Schools:
+
+## **Tools:**
+1.Text editors:
+
+ - [SublimeText](https://www.sublimetext.com/)
+ - [Atom](https://atom.io/)
+ - [Brackets](http://brackets.io/)
+ - [Notepad](https://notepad-plus-plus.org/)
+
+2.IDEs:
+
+ - [WebStorm](https://www.jetbrains.com/webstorm/) ($)
+ - [PhpStorm](https://www.jetbrains.com/phpstorm/) ($)
+ 
+## **Academies/Schools:**
 
  - [freeCodeCamp](https://www.freecodecamp.com)
  - [Code School](https://www.codeschool.com/)
  - [codecademy](https://www.codecademy.com/)
 
-###2.Books:
+## **Books:**
 HTML+CSS
 
   JavaScript
