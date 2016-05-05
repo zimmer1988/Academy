@@ -7,17 +7,17 @@ current mentor [Anton Skochko](https://github.com/AntonSkochko)
 ----------
 ##**Navigation**
 
-1.[Studying](#studying)
-2.[Tools](#tools)
-3.[Schools](#schools)
-4.[Books](#books)
+ 1.[Studying](#studying)
+ 2.[Tools](#tools)
+ 3.[Schools](#schools)
+ 4.[Books](#books)
 
 ##**Studying**
 
 **0. console/terminal/bash**
 
--[learn bash](https://ru.hexlet.io/courses/bash) with hexlet.io
--[learn commane line](https://ru.hexlet.io/courses/bash) -  with codecademy
+ - [learn bash](https://ru.hexlet.io/courses/bash) with hexlet.io 
+ - [learn commane line](https://ru.hexlet.io/courses/bash) -  with codecademy
 
 **1.Learning git (Version Control System(s))**
 
@@ -49,9 +49,9 @@ current mentor [Anton Skochko](https://github.com/AntonSkochko)
  - [codecademy](https://www.codecademy.com/)
 
 ## **Books**
-HTML+CSS
+**HTML+CSS**
 
-  JavaScript
+  **JavaScript**
  - JavaScript - the difinitive guide ("JavaScript - подробное руководство");
  - [learn.javascript.ru](http://learn.javascript.ru/)
  - Eloquent Javascript ("Выразительный JavaScript");
