@@ -65,6 +65,7 @@ Topic                  | Who (GitHub Profile)                          |        
 - [frontendhandbook (most important)](http://www.frontendhandbook.com/)
 - [javascript-path](https://github.com/javascript-society/javascript-path)
 - [essential-javascript](https://github.com/ericelliott/essential-javascript-links#books)
+- [habr, ru, how to IT](https://habrahabr.ru/post/275839/)
 
 ## Mustknow
 
@@ -75,15 +76,33 @@ Topic                  | Who (GitHub Profile)                          |        
 
 ## Online courses
 
-- [Code School](https://www.codeschool.com/)
-- [Codecademy](https://www.codecademy.com/)
-- [Egghead](https://egghead.io)
-- [freeCodeCamp](https://www.freecodecamp.com)
-- [Hexlet](https://ru.hexlet.io/)
+Site                                                    |        Price
+:------------------------------------------------------ | :-----------------:
+[Code School](https://www.codeschool.com/)              | :free: / :moneybag:
+[Codecademy](https://www.codecademy.com/)               | :free: / :moneybag:
+[Coursera](https://www.coursera.org/)                   | :free: / :moneybag:
+[edX](https://www.edx.org/)                             | :free: / :moneybag:
+[Egghead](https://egghead.io)                           | :free: / :moneybag:
+[freeCodeCamp](https://www.freecodecamp.com/)           |       :free:
+[GeekBrains](https://geekbrains.ru/)                    | :free: / :moneybag:
+[Harvard](http://online-learning.harvard.edu/courses)   |       :free:
+[Hexlet](https://ru.hexlet.io/)                         | :free: / :moneybag:
+[htmlacademy](https://htmlacademy.ru/)                  | :free: / :moneybag:
+[khanacademy](https://www.khanacademy.org)              |       :free:
+[Lynda](https://www.lynda.com/)                         |     :moneybag:
+[mva](https://mva.microsoft.com/)                       | :free: / :moneybag:
+[OpenUniversity](http://www.openuniversity.edu/courses) |       :free:
+[Sololearn](http://www.sololearn.com/)                  | :free: / :moneybag:
+[Stanford](http://online.stanford.edu/courses)          |       :free:
+[Teamtreehouse](https://teamtreehouse.com/)             |     :moneybag:
+[Udacity](https://www.udacity.com/)                     | :free: / :moneybag:
+[Udemy](https://www.udemy.com/)                         | :free: / :moneybag:
 
 ## Links
 
-- empty ;)
+- [same-origin policy, en](https://en.wikipedia.org/wiki/Same-origin_policy)
+- [same-origin policy, ru](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0)
+- [scope-of-sessionstorage-and-localstorage](https://stackoverflow.com/questions/9742395/scope-of-sessionstorage-and-localstorage)
 
 ## JS Links
 
