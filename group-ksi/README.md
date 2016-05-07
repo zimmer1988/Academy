@@ -129,9 +129,12 @@ Site                                                    |        Price
 - [ES5, en, airbnb](https://github.com/airbnb/javascript/tree/master/es5)
 - [ES5 Idiomatic, ru/en, rwaldron](https://github.com/rwaldron/idiomatic.js/tree/master/translations/ru_RU)
 - [ES2015](https://github.com/airbnb/javascript)
+- [awesome-style-guide](https://github.com/kciter/awesome-style-guide)
 
 ## Videos
 
+- [Listochkin, anti-hype](https://www.youtube.com/watch?v=xPFRUM_oDKA)
+- [Listochkin, quality](https://www.youtube.com/watch?v=Mx22NaWmFhk)
 - [About Time and Sport](https://youtu.be/YiPN0A-y3xQ)
 
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
