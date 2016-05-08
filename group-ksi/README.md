@@ -103,6 +103,7 @@ Site                                                    |        Price
 - [same-origin policy, en](https://en.wikipedia.org/wiki/Same-origin_policy)
 - [same-origin policy, ru](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0)
 - [scope-of-sessionstorage-and-localstorage](https://stackoverflow.com/questions/9742395/scope-of-sessionstorage-and-localstorage)
+- [Основы систем счисления](https://habrahabr.ru/post/124395/)
 
 ## JS Links
 
@@ -129,9 +130,13 @@ Site                                                    |        Price
 - [ES5, en, airbnb](https://github.com/airbnb/javascript/tree/master/es5)
 - [ES5 Idiomatic, ru/en, rwaldron](https://github.com/rwaldron/idiomatic.js/tree/master/translations/ru_RU)
 - [ES2015](https://github.com/airbnb/javascript)
+- [awesome-style-guide](https://github.com/kciter/awesome-style-guide)
 
 ## Videos
 
+- [Listochkin, anti-hype](https://www.youtube.com/watch?v=xPFRUM_oDKA)
+- [Listochkin, quality](https://www.youtube.com/watch?v=Mx22NaWmFhk)
+- [Makishvili, 36](https://www.youtube.com/watch?v=xPPCzryZK44)
 - [About Time and Sport](https://youtu.be/YiPN0A-y3xQ)
 
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
