@@ -3,8 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <title>Document</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+	<div class="block-form">
+		<form action="#" method="POST">
 
+			<label>
+				<span>Имя</span>
+				<input type="text" name="username" placeholder="Введите имя..." required></label>
+			<label>
+				<span>Язык</span>
+				<input type="text" name="language" placeholder="Язык" required></label>
+			<label>
+				<span>Описание</span>
+				<textarea name="description" placeholder="Описание..." required></textarea>
+			</label>
+			<label>
+				<span>Цель</span>
+				<input type="text" name="focus" placeholder="Цель..." required></label>
+			<label>
+				<span>Сложность</span>
+				<input type="text" name="complex" placeholder="Сложность" required></label>
+			<label>
+				<input type="submit" value="Отправить">
+		</label>
+		</form>
+	</div>
+
+	<script src="scripts.js"></script>
 </body>
 </html>
