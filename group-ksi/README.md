@@ -73,30 +73,31 @@ Topic                  | Who (GitHub Profile)                          |        
 - [Абсолютные и относительные ссылки](http://htmlbook.ru/samhtml/ssylki/absolyutnye-i-otnositelnye-ssylki)
 - [dom, on learn.javascript.ru](https://learn.javascript.ru/document)
 - [events, on learn.javascript.ru](https://learn.javascript.ru/events-and-interfaces)
+- [Руководство по псевдоклассам и псевдоэлементам](http://prgssr.ru/development/polnoe-rukovodstvo-po-psevdoklassam-i-psevdoelementam.html)
+- [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.7hkf30999)
 
 ## Online courses
 
-Site                                                    |        Price
-:------------------------------------------------------ | :-----------------:
-[Code School](https://www.codeschool.com/)              | :free: / :moneybag:
-[Codecademy](https://www.codecademy.com/)               | :free: / :moneybag:
-[Coursera](https://www.coursera.org/)                   | :free: / :moneybag:
-[edX](https://www.edx.org/)                             | :free: / :moneybag:
-[Egghead](https://egghead.io)                           | :free: / :moneybag:
-[freeCodeCamp](https://www.freecodecamp.com/)           |       :free:
-[GeekBrains](https://geekbrains.ru/)                    | :free: / :moneybag:
-[Harvard](http://online-learning.harvard.edu/courses)   |       :free:
-[Hexlet](https://ru.hexlet.io/)                         | :free: / :moneybag:
-[htmlacademy](https://htmlacademy.ru/)                  | :free: / :moneybag:
-[khanacademy](https://www.khanacademy.org)              |       :free:
-[Lynda](https://www.lynda.com/)                         |     :moneybag:
-[mva](https://mva.microsoft.com/)                       | :free: / :moneybag:
-[OpenUniversity](http://www.openuniversity.edu/courses) |       :free:
-[Sololearn](http://www.sololearn.com/)                  | :free: / :moneybag:
-[Stanford](http://online.stanford.edu/courses)          |       :free:
-[Teamtreehouse](https://teamtreehouse.com/)             |     :moneybag:
-[Udacity](https://www.udacity.com/)                     | :free: / :moneybag:
-[Udemy](https://www.udemy.com/)                         | :free: / :moneybag:
+- [Code School](https://www.codeschool.com/) :free: / :moneybag:
+- [Codecademy](https://www.codecademy.com/) :free: / :moneybag:
+- [Codingame](https://www.codingame.com/servlet/urlinvite?u=1282877) :free:
+- [Coursera](https://www.coursera.org/) :free: / :moneybag:
+- [edX](https://www.edx.org/) :free: / :moneybag:
+- [Egghead](https://egghead.io) :free: / :moneybag:
+- [freeCodeCamp](https://www.freecodecamp.com/) :free:
+- [GeekBrains](https://geekbrains.ru/) :free: / :moneybag:
+- [Harvard](http://online-learning.harvard.edu/courses) :free:
+- [Hexlet](https://ru.hexlet.io/) :free: / :moneybag:
+- [htmlacademy](https://htmlacademy.ru/) :free: / :moneybag:
+- [khanacademy](https://www.khanacademy.org) :free:
+- [Lynda](https://www.lynda.com/) :moneybag:
+- [mva](https://mva.microsoft.com/) :free: / :moneybag:
+- [OpenUniversity](http://www.openuniversity.edu/courses) :free:
+- [Sololearn](http://www.sololearn.com/) :free: / :moneybag:
+- [Stanford](http://online.stanford.edu/courses) :free:
+- [Teamtreehouse](https://teamtreehouse.com/) :moneybag:
+- [Udacity](https://www.udacity.com/) :free: / :moneybag:
+- [Udemy](https://www.udemy.com/) free: / :moneybag:
 
 ## Links
 
@@ -138,5 +139,8 @@ Site                                                    |        Price
 - [Listochkin, quality](https://www.youtube.com/watch?v=Mx22NaWmFhk)
 - [Makishvili, 36](https://www.youtube.com/watch?v=xPPCzryZK44)
 - [About Time and Sport](https://youtu.be/YiPN0A-y3xQ)
+- [TED procrastination](https://www.youtube.com/watch?v=arj7oStGLkU)
+- [algorythms, Traveling Salesman Problem Visualization](https://www.youtube.com/watch?v=SC5CX8drAtU)
+- [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
 
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
