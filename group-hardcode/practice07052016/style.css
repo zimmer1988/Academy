@@ -1,7 +1,16 @@
 *{
 	margin: 0;
 	padding: 0;
-	box-sizing:border-box;
+	box-sizing: border-box;
+}
+header h1{
+	font-size: 45px;	
+}
+header ul li{
+	background-color: white;
+	border-radius: 10px;
+	padding: 5px;
+
 }
 header h1{
 	font-size: 50px;
@@ -19,6 +28,29 @@ header ul li a{
 	text-decoration: none;
 	color: black;
 	font-size: 30px;
+	margin: 10px;
+}
+header{
+	text-align: center;
+	background-color: #eee;
+	height: 150px;
+	width: 98%;
+	border-radius: 20px;
+	margin: 1%;
+}
+main section{
+	display: inline-block;
+	width: 31%;
+	height: 300px;
+	background-color: #eee;
+	border-radius: 20px;
+	margin: 1%;
+}
+main section:hover{
+	background-color: grey;
+}
+main section h1{
+	text-align: center;
 	margin: 5px;
 }
 header{
@@ -27,13 +59,18 @@ header{
 	width: 100%;
 	border-radius: 20px;
 }
+#gmap{
+	border-radius: 20px;
+	height:400px;
+	width:98%;
+	margin:1%;
+}
 .footer{
 	position: relative;
 	border-radius: 10px;
 	background-color: #eee;	
 	color: darkgrey;
 	margin: 1%;
-	margin-top: 600px;
 	width: 98%;
 	height: 50px;
 	line-height: 50px;
@@ -42,5 +79,4 @@ header{
 	font-size: 25px;
 	bottom: 0;
     left: 0;
-    
 }
