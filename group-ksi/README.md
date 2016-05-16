@@ -15,7 +15,7 @@
 
 ## Info
 
-### Marks:
+### Roster and marks
 
 - **In progress**: :white_circle:
 - **Done**: :white_check_mark:
@@ -24,37 +24,31 @@ Topic                  | Who (GitHub Profile)                          |        
 :--------------------- | :-------------------------------------------- | :---------------------: | :----------------:
 1\. FreeCodeCamp Score | [freeCodeCamp](https://www.freecodecamp.com/) | :eight_spoked_asterisk: |       :free:
 =                      | [Владимир К.](https://github.com/borodinchik) |            ?            |   :white_circle:
-=                      | [Александр И.](https://github.com/alexakuna)  |           132           |   :white_circle:
+=                      | [Александр И.](https://github.com/alexakuna)  |           170           |   :white_circle:
 =                      | [Артем П.](https://github.com/ArtemPychenko)  |           310           | :white_check_mark:
-=                      | [Дмитрий М.](https://github.com/Dmytraw)      |           278           |   :white_circle:
+=                      | [Дмитрий М.](https://github.com/Dmytraw)      |           278           | :white_check_mark:
 =                      | [Денис К.](https://github.com/DenisKuznecov)  |           170           |   :white_circle:
 =                      | [Дмитрий Р.](https://github.com/katanji)      |           109           |   :white_circle:
-2\. Git/GitHub         | [Practice GitHub](https://try.github.io/)     |        :octocat:        |    :sunglasses:
-=                      | [Владимир К.](https://github.com/borodinchik) |   :white_check_mark:    |   :white_circle:
-=                      | [Александр И.](https://github.com/alexakuna)  |   :white_check_mark:    |   :white_circle:
-=                      | [Артем П.](https://github.com/ArtemPychenko)  |   :white_check_mark:    | :white_check_mark:
-=                      | [Дмитрий М.](https://github.com/Dmytraw)      |   :white_check_mark:    |   :white_circle:
-=                      | [Денис К.](https://github.com/DenisKuznecov)  |   :white_check_mark:    |   :white_circle:
-=                      | [Дмитрий Р.](https://github.com/katanji)      |   :white_check_mark:    | :white_check_mark:
+=                      | [Александр Г.](https://github.com/gungunzp)   |            ?            |   :white_circle:
 
-### Future topics
+### Topics
 
-1. Command Line, codecademy | [Command Line, codecademy](https://www.codecademy.com/learn/learn-the-command-line) | :white_circle: | :white_circle:
-2. Hexlet Bash | [Hexlet Bash](https://ru.hexlet.io/courses/bash) | :white_circle: | :white_circle:
-3. Tooling | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-4. HTML/CSS Advanced | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-5. Software | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-6. DevTools Browser | [discover-devtools](http://discover-devtools.codeschool.com/) | :white_circle: | :white_circle:
-7. Tools | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-8. NodeJS Basic | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-9. NPM/Bower | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-10. Gulp 3/4 | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-11. ES2015 | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-12. Frameworks Basic | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-13. Hexlet Programmer Life | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-14. Hexlet OS | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-15. Hexlet Logic | [ReplaceIt](https://try.github.io/) | :white_circle: | :white_circle:
-16. SemVer | [ReplaceIt](http://semver.org/) | :white_circle: | :white_circle:
+1. [Command Line, codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+2. [Bash: Основы командной строки, Hexlet](https://ru.hexlet.io/courses/bash)
+3. [Жизнь программиста, Hexlet](https://ru.hexlet.io/courses/prog-life)
+4. [Операционные системы, Hexlet](https://ru.hexlet.io/courses/operating_systems)
+5. [Логика, Hexlet](https://ru.hexlet.io/courses/logic)
+6. [Основы программирования, Hexlet](https://ru.hexlet.io/courses/programming-basics)
+7. Tooling
+8. HTML/CSS Advanced
+9. Software
+10. DevTools Browser | [discover-devtools](http://discover-devtools.codeschool.com/)
+11. Tools
+12. NodeJS Basic
+13. NPM/Bower
+14. Gulp 3/4
+15. ES2015
+16. Frameworks Basic
 
 ## Software
 
@@ -66,6 +60,7 @@ Topic                  | Who (GitHub Profile)                          |        
 - [javascript-path](https://github.com/javascript-society/javascript-path)
 - [essential-javascript](https://github.com/ericelliott/essential-javascript-links#books)
 - [habr, ru, how to IT](https://habrahabr.ru/post/275839/)
+- [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/) + [post](http://bradfrost.com/blog/post/atomic-web-design/) + [patternlab](http://patternlab.io/)
 
 ## Mustknow
 
@@ -75,6 +70,7 @@ Topic                  | Who (GitHub Profile)                          |        
 - [events, on learn.javascript.ru](https://learn.javascript.ru/events-and-interfaces)
 - [Руководство по псевдоклассам и псевдоэлементам](http://prgssr.ru/development/polnoe-rukovodstvo-po-psevdoklassam-i-psevdoelementam.html)
 - [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.7hkf30999)
+- [Semantic Versioning, SemVer](http://semver.org/)
 
 ## Online courses
 
