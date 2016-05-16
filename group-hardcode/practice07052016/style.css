@@ -47,6 +47,16 @@ main section:hover{
 main section h1{
 	text-align: center;
 } 
+header{
+	background-color: #eee;
+	height: 150px;
+	width: 100%;
+}
+#gmap{
+	height: 400px;
+	width: 50%;
+	margin: 1%;
+}
 .footer{
 	position: relative;
 	background-color: #eee;	
