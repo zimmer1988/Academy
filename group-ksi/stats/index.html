@@ -22,24 +22,31 @@
 		<form action="#" method="POST">
 
 			<label>
-				<span>Имя</span>
-				<input type="text" name="username" placeholder="Введите имя..." required></label>
+				<span>Имя <span class="req">*</span> </span>
+				<input type="text" name="username" placeholder="Введите имя..." autofocus required>
+				</label>
 			<label>
-				<span>Язык</span>
-				<input type="text" name="language" placeholder="Язык" required></label>
+				<span>Язык <span class="req">*</span> </span>
+				<input type="text" name="language" placeholder="Язык..." autofocus required>
+				</label>
+			
+			<label>
+				<span>Цель <span class="req">*</span> </span>
+				<input type="text" name="focus" placeholder="Цель..." autofocus required>
+				</label>
+			<label>
+				<span>Сложность<span class="req">*</span> </span>
+				<input type="text" name="complex" placeholder="Сложность..." autofocus required>
+				</label>
+			
 			<label>
 				<span>Описание</span>
-				<textarea name="description" placeholder="Описание..." required></textarea>
+				<textarea rows="5" name="description" placeholder="Описание..." autofocus></textarea>
 			</label>
-			<label>
-				<span>Цель</span>
-				<input type="text" name="focus" placeholder="Цель..." required></label>
-			<label>
-				<span>Сложность</span>
-				<input type="text" name="complex" placeholder="Сложность" required></label>
 			<label>
 				<input type="submit" value="Отправить">
 		</label>
+
 		</form>
 	</div>
 
