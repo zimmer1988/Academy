@@ -10,7 +10,13 @@ header ul li{
 	padding: 5px;
 	margin: 0;
 	padding: 0;
-	box-sizing:border-box;
+	box-sizing: border-box;
+}
+header h1{
+	font-size: 45px;	
+}
+header ul li{
+	background-color: white;
 }
 header h1{
 	font-size: 50px;
@@ -18,7 +24,6 @@ header h1{
 }
 header ul li{
 	background-color: white;
-	border-radius: 5px;
 	display: inline-block;
 }
 header ul li:hover{
@@ -28,45 +33,43 @@ header ul li a{
 	text-decoration: none;
 	color: black;
 	font-size: 30px;
-	margin: 10px;
 }
 header{
 	text-align: center;
 	background-color: #eee;
 	height: 150px;
-	width: 98%;
-	border-radius: 20px;
-	margin: 1%;
+	width: 100%;
 }
 main section{
 	display: inline-block;
-	width: 31%;
+	width: 33%;
 	height: 300px;
 	background-color: #eee;
-	border-radius: 20px;
-	margin: 1%;
+}
+main section:nth-child(odd){
+	background-color: #ddd;
 }
 main section:hover{
 	background-color: grey;
 }
 main section h1{
 	text-align: center;
-	margin: 5px;
 }
 header{
 	background-color: #eee;
 	height: 150px;
 	width: 100%;
-	border-radius: 20px;
+}
+#gmap{
+	height: 400px;
+	width: 50%;
+	margin: 1%;
 }
 .footer{
 	position: relative;
-	border-radius: 10px;
 	background-color: #eee;	
 	color: darkgrey;
-	margin: 1%;
-	margin-top: 600px;
-	width: 98%;
+	width: 100%;
 	height: 50px;
 	line-height: 50px;
 	text-align: center;
