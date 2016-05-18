@@ -24,7 +24,7 @@ Topic                  | Who (GitHub Profile)                          |        
 :--------------------- | :-------------------------------------------- | :---------------------: | :----------------:
 1\. FreeCodeCamp Score | [freeCodeCamp](https://www.freecodecamp.com/) | :eight_spoked_asterisk: |       :free:
 =                      | [Владимир К.](https://github.com/borodinchik) |            ?            |   :white_circle:
-=                      | [Александр И.](https://github.com/alexakuna)  |           170           |   :white_circle:
+=                      | [Александр И.](https://github.com/alexakuna)  |           223           |   :white_circle:
 =                      | [Артем П.](https://github.com/ArtemPychenko)  |           310           | :white_check_mark:
 =                      | [Дмитрий М.](https://github.com/Dmytraw)      |           278           | :white_check_mark:
 =                      | [Денис К.](https://github.com/DenisKuznecov)  |           170           |   :white_circle:
@@ -61,6 +61,7 @@ Topic                  | Who (GitHub Profile)                          |        
 - [essential-javascript](https://github.com/ericelliott/essential-javascript-links#books)
 - [habr, ru, how to IT](https://habrahabr.ru/post/275839/)
 - [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/) + [post](http://bradfrost.com/blog/post/atomic-web-design/) + [patternlab](http://patternlab.io/)
+- [from Gleb Bahmutov](https://glebbahmutov.com/blog/javascript-books/)
 
 ## Mustknow
 
@@ -71,6 +72,9 @@ Topic                  | Who (GitHub Profile)                          |        
 - [Руководство по псевдоклассам и псевдоэлементам](http://prgssr.ru/development/polnoe-rukovodstvo-po-psevdoklassam-i-psevdoelementam.html)
 - [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.7hkf30999)
 - [Semantic Versioning, SemVer](http://semver.org/)
+- [Лексическая область видимости функций в JavaScript, Habr](https://habrahabr.ru/post/149526/)
+- [Область видимости в JavaScript, Habr](https://habrahabr.ru/post/127482/)
+- [JS Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.p3qti2sr6)
 
 ## Online courses
 
@@ -101,6 +105,7 @@ Topic                  | Who (GitHub Profile)                          |        
 - [same-origin policy, ru](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0)
 - [scope-of-sessionstorage-and-localstorage](https://stackoverflow.com/questions/9742395/scope-of-sessionstorage-and-localstorage)
 - [Основы систем счисления](https://habrahabr.ru/post/124395/)
+- [medium, learn to code by games](https://medium.mybridge.co/12-free-resources-learn-to-code-while-playing-games-f7333043de11#.c372qt3ds)
 
 ## JS Links
 
