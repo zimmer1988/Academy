@@ -14,7 +14,7 @@ channel: [zcommunity](https://zcommunity.slack.com/)
 
 Содержание:
 
- 1. [Как устроен интернет , или что такое www](#internet.md)
+ 1. [HTML & CSS](htmlAndCss.md)
  2. [Языки программирования]()
  3. [Front-end разработчик, его стек технологий]()
  4. [Back-end разработчик, его стек технологий]()
