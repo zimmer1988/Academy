@@ -1,6 +1,6 @@
-##BASIC LEVEL
+##Ite rmediate level
 
-Введение в программирование и веб-технологии.
+Веб-разработка и программирование.
 
 **Общение ведется через [slack](https://slack.com/) приложение**
 channel: [zcommunity](https://zcommunity.slack.com/)
