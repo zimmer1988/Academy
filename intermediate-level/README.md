@@ -1,4 +1,4 @@
-##Ite rmediate level
+##Intermediate level
 
 Веб-разработка и программирование.
 
@@ -14,11 +14,10 @@ channel: [zcommunity](https://zcommunity.slack.com/)
 
 Содержание:
 
- 1. [HTML & CSS](htmlAndCss.md)
- 2. [Языки программирования]()
- 3. [Front-end разработчик, его стек технологий]()
- 4. [Back-end разработчик, его стек технологий]()
- 5. [Полезно знать]()
- 6. [English]()
+ 0. [Git, command line, developers tools](tools.md)
+ 1. [Создание веб страниц](htmlAndCss.md)
+ 2. [Алгоритмы , логика](algoritms.md)
+ 3. [JavaScript основы](js.md)
+ 4. [Back-end разработка на Python](backend.md)
 
 ----------
