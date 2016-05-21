@@ -6,3 +6,6 @@
 - [composer, ru, Composer - менеджер зависимостей для PHP](https://habrahabr.ru/post/145946/)
 - [composer, ru, Composer - советы и приемы использования](https://habrahabr.ru/post/258891/)
 - [composer, ru, Composer - the right way](https://habrahabr.ru/post/268871/)
+
+- [Junior Php](http://anton.shevchuk.name/php/required-skills-for-junior-php-developer/)
+- [hexlet php challenges](https://ru.hexlet.io/challenges)
