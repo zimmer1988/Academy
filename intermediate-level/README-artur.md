@@ -1,6 +1,4 @@
-# Welcome to Group-Ksi (Ξξ) repository (20160430)
-
-> current mentor [Artur P.](https://github.com/arturparkhisenko)
+# Intermediate-level
 
 ## Navigation
 
@@ -14,22 +12,6 @@
 8. :movie_camera: [Videos](#videos)
 
 ## Info
-
-### Roster and marks
-
-- **In progress**: :white_circle:
-- **Done**: :white_check_mark:
-
-Topic                  | Who (GitHub Profile)                          |         Theory          |      Practice
-:--------------------- | :-------------------------------------------- | :---------------------: | :----------------:
-1\. FreeCodeCamp Score | [freeCodeCamp](https://www.freecodecamp.com/) | :eight_spoked_asterisk: |       :free:
-=                      | [Владимир К.](https://github.com/borodinchik) |            ?            |   :white_circle:
-=                      | [Александр И.](https://github.com/alexakuna)  |           223           |   :white_circle:
-=                      | [Артем П.](https://github.com/ArtemPychenko)  |           310           | :white_check_mark:
-=                      | [Дмитрий М.](https://github.com/Dmytraw)      |           278           | :white_check_mark:
-=                      | [Денис К.](https://github.com/DenisKuznecov)  |           170           |   :white_circle:
-=                      | [Дмитрий Р.](https://github.com/katanji)      |           109           |   :white_circle:
-=                      | [Александр Г.](https://github.com/gungunzp)   |            ?            |   :white_circle:
 
 ### Topics
 
