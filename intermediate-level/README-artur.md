@@ -1,6 +1,4 @@
-# Welcome to Group-Ksi (Ξξ) repository (20160430)
-
-> current mentor [Artur P.](https://github.com/arturparkhisenko)
+# Intermediate-level
 
 ## Navigation
 
@@ -14,22 +12,6 @@
 8. :movie_camera: [Videos](#videos)
 
 ## Info
-
-### Roster and marks
-
-- **In progress**: :white_circle:
-- **Done**: :white_check_mark:
-
-Topic                  | Who (GitHub Profile)                          |         Theory          |      Practice
-:--------------------- | :-------------------------------------------- | :---------------------: | :----------------:
-1\. FreeCodeCamp Score | [freeCodeCamp](https://www.freecodecamp.com/) | :eight_spoked_asterisk: |       :free:
-=                      | [Владимир К.](https://github.com/borodinchik) |            ?            |   :white_circle:
-=                      | [Александр И.](https://github.com/alexakuna)  |           223           |   :white_circle:
-=                      | [Артем П.](https://github.com/ArtemPychenko)  |           310           | :white_check_mark:
-=                      | [Дмитрий М.](https://github.com/Dmytraw)      |           278           | :white_check_mark:
-=                      | [Денис К.](https://github.com/DenisKuznecov)  |           170           |   :white_circle:
-=                      | [Дмитрий Р.](https://github.com/katanji)      |           109           |   :white_circle:
-=                      | [Александр Г.](https://github.com/gungunzp)   |            ?            |   :white_circle:
 
 ### Topics
 
@@ -95,6 +77,7 @@ Topic                  | Who (GitHub Profile)                          |        
 - [OpenUniversity](http://www.openuniversity.edu/courses) :free:
 - [Sololearn](http://www.sololearn.com/) :free: / :moneybag:
 - [Stanford](http://online.stanford.edu/courses) :free:
+- [Stepic](https://stepic.org/)
 - [Teamtreehouse](https://teamtreehouse.com/) :moneybag:
 - [Udacity](https://www.udacity.com/) :free: / :moneybag:
 - [Udemy](https://www.udemy.com/) free: / :moneybag:
@@ -106,6 +89,7 @@ Topic                  | Who (GitHub Profile)                          |        
 - [scope-of-sessionstorage-and-localstorage](https://stackoverflow.com/questions/9742395/scope-of-sessionstorage-and-localstorage)
 - [Основы систем счисления](https://habrahabr.ru/post/124395/)
 - [medium, learn to code by games](https://medium.mybridge.co/12-free-resources-learn-to-code-while-playing-games-f7333043de11#.c372qt3ds)
+- [12factor](http://12factor.net/ru/)
 
 ## JS Links
 
@@ -116,6 +100,7 @@ Topic                  | Who (GitHub Profile)                          |        
 - [js module bundling, ru, webtackles](http://webtackles.ru/javascript/js-module-bundling/)
 - [functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
 - [webstandards ru, dictionary](https://github.com/web-standards-ru/dictionary)
+- [JavaScript-Garden ru](https://bonsaiden.github.io/JavaScript-Garden/ru/)
 
 ### JS Patterns
 
@@ -143,5 +128,9 @@ Topic                  | Who (GitHub Profile)                          |        
 - [TED procrastination](https://www.youtube.com/watch?v=arj7oStGLkU)
 - [algorythms, Traveling Salesman Problem Visualization](https://www.youtube.com/watch?v=SC5CX8drAtU)
 - [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
+
+## Tasks
+- [jscourse tasks](http://jscourse.com/tasks)
+- [hexlet js challenges](https://ru.hexlet.io/challenges)
 
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
