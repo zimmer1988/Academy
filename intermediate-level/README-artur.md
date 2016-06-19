@@ -57,6 +57,9 @@
 - [Лексическая область видимости функций в JavaScript, Habr](https://habrahabr.ru/post/149526/)
 - [Область видимости в JavaScript, Habr](https://habrahabr.ru/post/127482/)
 - [JS Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.p3qti2sr6)
+- [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.p0pooc2p6)
+- [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.uj93oo4y8)
+- [From Carpenter to Front End Developer in under 5 months](https://medium.freecodecamp.com/this-is-my-story-about-how-i-went-from-being-a-carpenter-with-zero-experience-in-the-tech-world-to-4252e93cb73#.azj4fczdn)
 
 ## Online courses
 
@@ -130,6 +133,7 @@
 - [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
 
 ## Tasks
+
 - [jscourse tasks](http://jscourse.com/tasks)
 - [hexlet js challenges](https://ru.hexlet.io/challenges)
 
