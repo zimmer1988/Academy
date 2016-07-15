@@ -5,9 +5,11 @@
 - team: skype/slack channel/phones/daily evening coding
 - english (all docs, plugins, etc..)
 - pc as black box
-- Software (os, editor),
-- 2binary/10/hex(colors and etc) positional numeral system,
+- Software (os, editor)
+- 2binary/10/hex(colors and etc) positional numeral system
 - math (expressions (x=y+z), functions(math funcs), matrix), [mathisfun](http://www.mathsisfun.com/index.htm)
+  - [function](http://www.mathsisfun.com/definitions/function.html)
+  - [algorithm](http://www.mathsisfun.com/definitions/algorithm.html)
 - html/css/ DOM!!!
   - [dom, on learn.javascript.ru](https://learn.javascript.ru/document)
   - semantic html, styleguides
@@ -22,8 +24,8 @@
 - graphic editors (photoshop / sketch(ios) -> zeplin), нарезка, стили слоя, информация о тексте и размерах
 - [google fonts old site](https://www.google.com/fonts) , [new site](https://fonts.google.com/)
 - [DevTools in Browsers](https://developer.chrome.com/devtools) | [discover-devtools](http://discover-devtools.codeschool.com/)
-- [Bash: Основы командной строки, Hexlet](https://ru.hexlet.io/courses/bash)
 - [Абсолютные и относительные ссылки](http://htmlbook.ru/samhtml/ssylki/absolyutnye-i-otnositelnye-ssylki)
+- [Bash: Основы командной строки, Hexlet](https://ru.hexlet.io/courses/bash)
 - [git official site](https://git-scm.com/)
   - [ru, video about git](https://www.youtube.com/watch?v=PEKN8NtBDQ0)
   - [try.github.io](https://try.github.io/levels/1/challenges/1)
