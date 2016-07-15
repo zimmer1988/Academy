@@ -6,7 +6,8 @@
 - english (all docs, plugins, etc..)
 - pc as black box
 - Software (os, editor)
-- 2binary/10/hex(colors and etc) positional numeral system
+- bit byte kbyte, 2binary/10/hex(colors and etc) positional numeral system
+ - [bit byte and etc, stanford](https://web.stanford.edu/class/cs101/bits-bytes.html)
 - math (expressions (x=y+z), functions(math funcs), matrix), [mathisfun](http://www.mathsisfun.com/index.htm)
   - [function](http://www.mathsisfun.com/definitions/function.html)
   - [algorithm](http://www.mathsisfun.com/definitions/algorithm.html)
@@ -19,6 +20,7 @@
   - [ui kit example](https://s-media-cache-ak0.pinimg.com/736x/5f/c4/0e/5fc40e12a8e42bd5543c3d77ab1df14e.jpg)
   - grids (flex)
   - emmet
+  - css @support
   - css methodologies, proper naming (en only)
   - [LAYOUTS on developers google](https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=en)
 - graphic editors (photoshop / sketch(ios) -> zeplin), нарезка, стили слоя, информация о тексте и размерах
@@ -38,7 +40,8 @@
 - [Основы программирования, Hexlet](https://ru.hexlet.io/courses/programming-basics)
 - Tooling (console/cmd/shell, git, NodeJS, npm, bower, gulp, template engines, preprocessors)
 - Ajax
-- backend api endpoints
+- database (сущности, связи)
+- backend api endpoints / rest / restFull
 - MVC, abstraction, black box, Frameworks Basic (css/js)
 
 ## PRACTICE on github/codepen :godmode:
