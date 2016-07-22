@@ -11,6 +11,7 @@
 - math (expressions (x=y+z), functions(math funcs), matrix), [mathisfun](http://www.mathsisfun.com/index.htm)
   - [function](http://www.mathsisfun.com/definitions/function.html)
   - [algorithm](http://www.mathsisfun.com/definitions/algorithm.html)
+  - [0.30000000000000004](http://0.30000000000000004.com/)
 - html/css/ DOM!!!
   - [dom, on learn.javascript.ru](https://learn.javascript.ru/document)
   - semantic html, styleguides
@@ -23,6 +24,7 @@
   - css @support
   - css methodologies, proper naming (en only)
   - [LAYOUTS on developers google](https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=en)
+  - http://tilda.education/courses/web-design/basicsteps/
 - graphic editors (photoshop / sketch(ios) -> zeplin), нарезка, стили слоя, информация о тексте и размерах
 - [google fonts old site](https://www.google.com/fonts) , [new site](https://fonts.google.com/)
 - [DevTools in Browsers](https://developer.chrome.com/devtools) | [discover-devtools](http://discover-devtools.codeschool.com/)
@@ -94,6 +96,8 @@
 - [js modules, ru, webtackles](http://webtackles.ru/javascript/js-modules-beginners-guide/)
 - [js module bundling, ru, webtackles](http://webtackles.ru/javascript/js-module-bundling/)
 - [JavaScript-Garden ru](https://bonsaiden.github.io/JavaScript-Garden/ru/)
+- [blind type speed test](https://vse10.ru/)
+- [blind type speed practice](http://10fastfingers.com/typing-test/russian)
 
 ## Sources
 
@@ -101,3 +105,4 @@
 - [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.p0pooc2p6)
 - [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b#.uj93oo4y8)
 - [From Carpenter to Front End Developer in under 5 months](https://medium.freecodecamp.com/this-is-my-story-about-how-i-went-from-being-a-carpenter-with-zero-experience-in-the-tech-world-to-4252e93cb73#.azj4fczdn)
+- [cs50](http://cs50.tv/2015/fall/)
