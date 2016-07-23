@@ -19,13 +19,15 @@
     - [htmlacademy codeguide](https://htmlacademy.github.io/codeguide/)
     - [workmanship](http://workmanship.io/)
   - [ui kit example](https://s-media-cache-ak0.pinimg.com/736x/5f/c4/0e/5fc40e12a8e42bd5543c3d77ab1df14e.jpg)
-  - grids (flex)
-  - emmet
+  - grids (bootstrap, 960, flex) [learnlayout, ru](http://ru.learnlayout.com/)
+  - emmet (plugin)
   - css @support
-  - css methodologies, proper naming (en only)
+  - css methodologies (BOOCSS, ACSS, BEM, SMACSS), proper naming (en only)
   - [LAYOUTS on developers google](https://developers.google.com/web/fundamentals/design-and-ui/responsive/?hl=en)
   - http://tilda.education/courses/web-design/basicsteps/
-- graphic editors (photoshop / sketch(ios) -> zeplin), нарезка, стили слоя, информация о тексте и размерах
+- graphics editors (photoshop(win/ios) / sketch(ios) / gimp / inkscape -> zeplin / csshat / avocode)
+  - нарезка, стили слоя, информация о тексте и размерах
+  - vector vs raster
 - [google fonts old site](https://www.google.com/fonts) , [new site](https://fonts.google.com/)
 - [DevTools in Browsers](https://developer.chrome.com/devtools) | [discover-devtools](http://discover-devtools.codeschool.com/)
 - [Абсолютные и относительные ссылки](http://htmlbook.ru/samhtml/ssylki/absolyutnye-i-otnositelnye-ssylki)
