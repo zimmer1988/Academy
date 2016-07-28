@@ -35,6 +35,7 @@
 - [git official site](https://git-scm.com/)
   - [ru, video about git](https://www.youtube.com/watch?v=PEKN8NtBDQ0)
   - [try.github.io](https://try.github.io/levels/1/challenges/1)
+- [semver](http://semver.org/lang/ru/) and [picture](http://www.jontejada.com/blog/assets/semver03.png)
 - js - [eloquentjavascript_ru online](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/) ,
     [eloquentjavascript_ru github link](https://github.com/karmazzin/eloquentjavascript_ru)
 - After that, read through the following sections in [MDN’s JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide):
@@ -100,6 +101,7 @@
 - [JavaScript-Garden ru](https://bonsaiden.github.io/JavaScript-Garden/ru/)
 - [blind type speed test](https://vse10.ru/)
 - [blind type speed practice](http://10fastfingers.com/typing-test/russian)
+- [Ошибка. Осознание, примирение, извлечение пользы](https://vimeo.com/17626272)
 
 ## Sources
 
