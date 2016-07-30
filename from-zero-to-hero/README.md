@@ -35,9 +35,13 @@
 - [git official site](https://git-scm.com/)
   - [ru, video about git](https://www.youtube.com/watch?v=PEKN8NtBDQ0)
   - [try.github.io](https://try.github.io/levels/1/challenges/1)
+  - [Шпаргалка по Git](https://medium.com/@ABatickaya/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0-%D0%BF%D0%BE-git-55eeea487676#.egt8ws81g)
 - [semver](http://semver.org/lang/ru/) and [picture](http://www.jontejada.com/blog/assets/semver03.png)
 - js - [eloquentjavascript_ru online](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/) ,
     [eloquentjavascript_ru github link](https://github.com/karmazzin/eloquentjavascript_ru)
+  - [types intro](https://learn.javascript.ru/types-intro)
+  - [types basic](http://javascript.ru/basic/types)
+  - [types array](https://learn.javascript.ru/array)
 - After that, read through the following sections in [MDN’s JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide):
   Grammar and types, Control flow and error handling, Loops and iterations, Functions
 - jquery
