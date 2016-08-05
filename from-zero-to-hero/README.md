@@ -44,7 +44,7 @@
   - [types array](https://learn.javascript.ru/array)
 - After that, read through the following sections in [MDN’s JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide):
   Grammar and types, Control flow and error handling, Loops and iterations, Functions
-- jquery
+- jQuery
 - [JS: подготовка к работе, Hexlet](https://ru.hexlet.io/courses/javascript_setup)
 - [Основы программирования, Hexlet](https://ru.hexlet.io/courses/programming-basics)
 - Tooling (console/cmd/shell, git, NodeJS, npm, bower, gulp, template engines, preprocessors)
@@ -73,6 +73,7 @@
 - [onepagelove](https://onepagelove.com/)
 - [hover to practice](http://codepen.io/jonathanzwhite/pen/GZVKmE)
 - [jscourse tasks](http://jscourse.com/tasks)
+- [zfort-js-course](https://github.com/roman01la/zfort-js-course)
 
 ## Book
 - [frontendhandbook (biggest)](http://www.frontendhandbook.com/)
@@ -106,6 +107,11 @@
 - [blind type speed test](https://vse10.ru/)
 - [blind type speed practice](http://10fastfingers.com/typing-test/russian)
 - [Ошибка. Осознание, примирение, извлечение пользы](https://vimeo.com/17626272)
+- 7 смертных грехов программиста
+  - [Уныние](https://medium.com/@xanf/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D1%83%D0%BD%D1%8B%D0%BD%D0%B8%D0%B5-ac514112cb2d#.qrse6bhmw)
+  - [Гнев](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D0%B3%D0%BD%D0%B5%D0%B2-3bfa60d72de0#.vmktacfk5)
+  - [Зависть](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D1%82%D1%8C-330d3dfbc52a#.pco7xyac3)
+  - [Гордыня](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D0%B3%D0%BE%D1%80%D0%B4%D1%8B%D0%BD%D1%8F-fffd58553f8f#.fez0orbk8)
 
 ## Sources
 
