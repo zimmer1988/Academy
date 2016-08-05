@@ -39,6 +39,7 @@
 - [semver](http://semver.org/lang/ru/) and [picture](http://www.jontejada.com/blog/assets/semver03.png)
 - js - [eloquentjavascript_ru online](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/) ,
     [eloquentjavascript_ru github link](https://github.com/karmazzin/eloquentjavascript_ru)
+  - [the little javascripter](http://thelittlejavascripter.com)
   - [types intro](https://learn.javascript.ru/types-intro)
   - [types basic](http://javascript.ru/basic/types)
   - [types array](https://learn.javascript.ru/array)
