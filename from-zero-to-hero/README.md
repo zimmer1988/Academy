@@ -46,6 +46,7 @@
   - [types array](https://learn.javascript.ru/array)
 - After that, read through the following sections in [MDN’s JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide):
   Grammar and types, Control flow and error handling, Loops and iterations, Functions
+  - [funfunfunction about this and objects](https://www.youtube.com/watch?v=PIkA60I0dKU)
 - jQuery
 - [JS: подготовка к работе, Hexlet](https://ru.hexlet.io/courses/javascript_setup)
 - [Основы программирования, Hexlet](https://ru.hexlet.io/courses/programming-basics)
