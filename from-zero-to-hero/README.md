@@ -40,6 +40,7 @@
 - js - [eloquentjavascript_ru online](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/) ,
     [eloquentjavascript_ru github link](https://github.com/karmazzin/eloquentjavascript_ru)
   - [the little javascripter](http://thelittlejavascripter.com)
+  - [block-scheme](https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0)
   - [types intro](https://learn.javascript.ru/types-intro)
   - [types basic](http://javascript.ru/basic/types)
   - [types array](https://learn.javascript.ru/array)
@@ -113,6 +114,9 @@
   - [Гнев](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D0%B3%D0%BD%D0%B5%D0%B2-3bfa60d72de0#.vmktacfk5)
   - [Зависть](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D1%82%D1%8C-330d3dfbc52a#.pco7xyac3)
   - [Гордыня](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D0%B3%D0%BE%D1%80%D0%B4%D1%8B%D0%BD%D1%8F-fffd58553f8f#.fez0orbk8)
+  - [Уныние](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D1%83%D0%BD%D1%8B%D0%BD%D0%B8%D0%B5-ac514112cb2d#.7mwtdt8qq)
+  - [Чревоугодие](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D1%87%D1%80%D0%B5%D0%B2%D0%BE%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5-e673f677b04b#.bynrynh8u)
+  - [Алчность](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D0%B0%D0%BB%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C-c5b352d51dd4#.n54ggoby2)
 
 ## Sources
 
