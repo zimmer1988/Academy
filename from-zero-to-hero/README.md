@@ -55,6 +55,7 @@
 - database (сущности, связи)
 - backend api endpoints / rest / restFull
 - MVC, abstraction, black box, Frameworks Basic (css/js)
+- CS50 intro and matherials from their [study site](https://study.cs50.net/)
 
 ## PRACTICE on github/codepen :godmode:
 
@@ -118,6 +119,10 @@
   - [Уныние](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D1%83%D0%BD%D1%8B%D0%BD%D0%B8%D0%B5-ac514112cb2d#.7mwtdt8qq)
   - [Чревоугодие](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D1%87%D1%80%D0%B5%D0%B2%D0%BE%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5-e673f677b04b#.bynrynh8u)
   - [Алчность](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D0%B0%D0%BB%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C-c5b352d51dd4#.n54ggoby2)
+
+- [Quantum Computers Explained – Limits of Human Technology](https://www.youtube.com/watch?v=JhHMJCUmq28)
+- [Wiki Unix](https://ru.wikipedia.org/wiki/UNIX)
+- [Linux intro](http://gentoo.theserverside.ru/gentoo-doc/Gentoo_doc-1.5-6.html)
 
 ## Sources
 
