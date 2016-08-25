@@ -29,6 +29,7 @@
   - нарезка, стили слоя, информация о тексте и размерах
   - vector vs raster
 - [google fonts old site](https://www.google.com/fonts) , [new site](https://fonts.google.com/)
+- [bulletproof-font-face](https://github.com/CSSLint/csslint/wiki/bulletproof-font-face) and [fontsquirrel](https://www.fontsquirrel.com/)
 - [DevTools in Browsers](https://developer.chrome.com/devtools) | [discover-devtools](http://discover-devtools.codeschool.com/)
 - [Абсолютные и относительные ссылки](http://htmlbook.ru/samhtml/ssylki/absolyutnye-i-otnositelnye-ssylki)
 - [Bash: Основы командной строки, Hexlet](https://ru.hexlet.io/courses/bash)
