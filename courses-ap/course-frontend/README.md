@@ -1,6 +1,6 @@
-# From zero to hero :fire:
+# Frontend :fire:
 
-## map (in order, from top to bottom):
+## Map (in order, from top to bottom):
 
 - team: skype/slack channel/phones/daily evening coding
 - english (all docs, plugins, etc..)
