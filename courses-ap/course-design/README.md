@@ -7,6 +7,7 @@
 - форматы изображений
 - шрифт
 - типографика
+  - [medium, Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891#.bgx4fiodp)
 - палитры
 - стайлгайды (бренд бук)
 - анимация

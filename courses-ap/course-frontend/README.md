@@ -48,6 +48,8 @@
 - After that, read through the following sections in [MDN’s JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide):
   Grammar and types, Control flow and error handling, Loops and iterations, Functions
   - [funfunfunction about this and objects](https://www.youtube.com/watch?v=PIkA60I0dKU)
+  - objects: composition vs inheritance [Composition over Inheritance, funfunfunction](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+  - async patterns (callbacks, promises, events, streams)
 - jQuery
 - [JS: подготовка к работе, Hexlet](https://ru.hexlet.io/courses/javascript_setup)
 - [Основы программирования, Hexlet](https://ru.hexlet.io/courses/programming-basics)
