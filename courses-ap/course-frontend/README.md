@@ -51,8 +51,9 @@
   - objects: composition vs inheritance [Composition over Inheritance, funfunfunction](https://www.youtube.com/watch?v=wfMtDGfHWpA)
   - async patterns (callbacks, promises, events, streams)
 - jQuery
-- [JS: подготовка к работе, Hexlet](https://ru.hexlet.io/courses/javascript_setup)
 - [Основы программирования, Hexlet](https://ru.hexlet.io/courses/programming-basics)
+- [Введение в Javascript](https://ru.hexlet.io/courses/javascript_101)
+- [JS: подготовка к работе, Hexlet](https://ru.hexlet.io/courses/javascript_setup)
 - Tooling (console/cmd/shell, git, NodeJS, npm, bower, gulp, template engines, preprocessors)
 - Ajax
 - database (сущности, связи)
