@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>todo</title>
+  <style>
+    body {
+      text-align: center;
+      padding: 7%;
+    }
+
+    #list {
+      padding: 1em;
+      max-width: 400px;
+      min-height: 20px;
+      margin: auto;
+      position: relative;
+      text-align: left;
+    }
+
+    .placeholder {
+      position: absolute;
+      z-index: -1;
+    }
+
+    .item {
+      background-color: #ccc;
+      border-bottom: 1px solid #aaa;
+    }
+  </style>
+</head>
+
+<body>
+
+  <input id="input-text" placeholder="Текст заметки..."></input> <button id="btn-add">Add</button>
+
+  <div id="list">
+    <div class="placeholder">Заметки появятся здесь ;)</div>
+  </div>
+
+  <script>
+    // var elInputText = document.querySelector('#input-text'); // new method
+    var elInputText = document.getElementById('input-text'); // by old method
+    var elButtonAdd = document.getElementById('btn-add');
+    var elList = document.getElementById('list');
+
+    elButtonAdd.addEventListener('click', function() {
+      // проверка не пустое ли
+      if (!elInputText.value) {
+        return;
+      }
+
+      itemAdd(elList, elInputText.value);
+    });
+
+    function itemAdd(element, text) {
+      // appendChild ИЛИ innerHTML способом
+
+      // appendChild way (тут упор идет на создание настоящих дом элементов без парсинга строк)
+      var elItem = document.createElement('div'); // создали элемент заметки
+      var elBtnDelete = document.createElement('button'); // создали элемент кнопки
+      elBtnDelete.textContent = 'Delete'; // добавляем текст кнопке
+      elBtnDelete.setAttribute('onclick', 'itemDelete(this)'); // по простому без эвент листенера
+
+      elItem.classList.add('item'); // добавим класс item к диву заметки
+      elItem.appendChild(document.createTextNode(text)); // добавим текст к заметке
+      elItem.appendChild(elBtnDelete); // добавим кнопку к заметке
+
+      element.appendChild(elItem); // наконец-то добавляем в список
+
+      // innerHTML way: (тут все просто, кодите хтмл, а оно его парсит и конвертирует уже в готовые ДОМ элементы)
+      // element.innerHTML += '<div class="item">' + text + '<button onclick="itemDelete(this)">Delete</button></div>';
+    }
+
+    function itemDelete(btn) {
+      btn.parentNode.remove();
+    }
+  </script>
+
+</body>
+
+</html>

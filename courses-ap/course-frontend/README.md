@@ -41,6 +41,9 @@
 - js - [eloquentjavascript_ru online](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/) ,
     [eloquentjavascript_ru github link](https://github.com/karmazzin/eloquentjavascript_ru)
   - [the little javascripter](http://thelittlejavascripter.com)
+  - [Основы программирования, Hexlet](https://ru.hexlet.io/courses/programming-basics)
+  - [Введение в Javascript](https://ru.hexlet.io/courses/javascript_101)
+  - [JS: подготовка к работе, Hexlet](https://ru.hexlet.io/courses/javascript_setup)
   - [block-scheme](https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0)
   - [types intro](https://learn.javascript.ru/types-intro)
   - [types basic](http://javascript.ru/basic/types)
@@ -51,15 +54,13 @@
   - objects: composition vs inheritance [Composition over Inheritance, funfunfunction](https://www.youtube.com/watch?v=wfMtDGfHWpA)
   - async patterns (callbacks, promises, events, streams)
 - jQuery
-- [Основы программирования, Hexlet](https://ru.hexlet.io/courses/programming-basics)
-- [Введение в Javascript](https://ru.hexlet.io/courses/javascript_101)
-- [JS: подготовка к работе, Hexlet](https://ru.hexlet.io/courses/javascript_setup)
 - Tooling (console/cmd/shell, git, NodeJS, npm, bower, gulp, template engines, preprocessors)
 - Ajax
 - database (сущности, связи)
 - backend api endpoints / rest / restFull
 - MVC, abstraction, black box, Frameworks Basic (css/js)
 - CS50 intro and matherials from their [study site](https://study.cs50.net/)
+- [Что дальше? видео с hexlet Введение в Javascript](https://www.youtube.com/watch?v=ro7dL-Dy3cQ)
 
 ## PRACTICE on github/codepen :godmode:
 

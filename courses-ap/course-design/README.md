@@ -4,7 +4,8 @@
 **base**: [on tilda.education web-design](http://tilda.education/courses/web-design/)
 
 - единицы измерения
-- форматы изображений
+- векторная и растровая графика
+- форматы изображений (raw,svg,jpg/eg,png,tiff,bmp,gif)
 - шрифт
 - типографика
   - [medium, Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891#.bgx4fiodp)
