@@ -129,6 +129,7 @@
 - [Wiki Unix](https://ru.wikipedia.org/wiki/UNIX)
 - [Linux intro](http://gentoo.theserverside.ru/gentoo-doc/Gentoo_doc-1.5-6.html)
 - [medium, Я б в верстальщики пошел](https://medium.com/russian/%D1%8F-%D0%B1-%D0%B2-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D1%89%D0%B8%D0%BA%D0%B8-%D0%BF%D0%BE%D1%88%D0%B5%D0%BB-4496f8eec698#.bfp6zlz8s)
+- [Разработка расширяемых компонентов на HTML и CSS, prgssr, ru](http://prgssr.ru/development/razrabotka-rasshiryaemyh-komponentov-html-i-css.html)
 
 ## Sources
 
