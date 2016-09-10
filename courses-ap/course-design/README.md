@@ -10,12 +10,16 @@
 - Форматы изображений (raw,svg,jpg/eg,png,tiff,bmp,gif)
   - [форматы, цвет, глубина цвета, цветовая модель](http://web-design-courses.narod.ru/graphics.html)
 - Форматы цвета, цветовая модель (RGB девайсы и пк, HEX, CMYK типография)
+- DPI
+  - [english guide](http://sebastien-gabriel.com/designers-guide-to-dpi/)
+  - [Разрешение(компьютерная графика), ru wiki](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0))
 - Типографика (шрифт)
   - [Базовые принципы, собраны в одном месте](http://www.wearymax.ru/webmasters/typographic/)
   - [medium, Typography is impossible](https://medium.engineering/typography-is-impossible-5872b0c7f891#.bgx4fiodp)
   - [Responsive typography](http://web-standards.ru/articles/responsive-typography/)
   - [Patterns practices 2013](http://frontender.info/typographic-design-patterns-practices-case-study-2013/)
   - [fundamentals-of-design, typography is free, codeschool](https://www.codeschool.com/courses/fundamentals-of-design)
+- [Photoshop Etiquette](http://photoshopetiquette.com/)
 - [artlebedev.ru](https://www.artlebedev.ru/)
   - [Перспектива](https://www.artlebedev.ru/kovodstvo/sections/101/)
 - Палитры
@@ -25,7 +29,7 @@
 - Гайдлайн / Стайлгайд
   - [Создание стайлгайда для проекта](https://spark.ru/startup/peoplie/blog/6846/sozdanie-stajlgajda-dlya-proekta)
   - [example AirBnb](https://dribbble.com/shots/1669299-Airbnb-UI-Toolkit-Web)
-- []Брендбук](http://www.wearymax.ru/webmasters/brandbook/)
+- [Брендбук](http://www.wearymax.ru/webmasters/brandbook/)
 - Анимация
   - [animations on developers.google.com](https://developers.google.com/web/fundamentals/design-and-ui/animations/)
 - Паттерны отзывчивого дизайна
@@ -48,6 +52,7 @@
 ## Inspiration and practice
 
 - [muz.li](http://muz.li/)
+- [codepen](https://codepen.io/)
 - [dribbble](https://dribbble.com/)
 - [behance](https://www.behance.net/)
 - [pinterest](https://www.pinterest.com/)
