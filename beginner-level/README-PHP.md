@@ -1,4 +1,4 @@
-# php way, it'll be updated soon
+# php way
 
 1. [phptherightway](http://www.phptherightway.com/)
 1. [phptherightway, ru](https://getjump.me/ru-php-the-right-way/)

@@ -2,16 +2,19 @@
 
 ## Map (in order, from top to bottom):
 
-- team: skype/slack channel/phones/daily evening coding
 - english (all docs, plugins, etc..)
-- pc as black box
-- Software (os, editor)
+- pc as black box (simplest description and explanation)
+- Software (os, editor, etc tools)
+- file encoding [link 1, ru](http://dimox.name/utf-8-without-bom/), [link 2, en](http://kunststube.net/encoding/)
 - bit byte kbyte, 2binary/10/hex(colors and etc) positional numeral system
  - [bit byte and etc, stanford](https://web.stanford.edu/class/cs101/bits-bytes.html)
 - math (expressions (x=y+z), functions(math funcs), matrix), [mathisfun](http://www.mathsisfun.com/index.htm)
   - [function](http://www.mathsisfun.com/definitions/function.html)
   - [algorithm](http://www.mathsisfun.com/definitions/algorithm.html)
   - [0.30000000000000004](http://0.30000000000000004.com/)
+- [recommended short guide for newbies (codeschool), pdf](http://courseware.codeschool.com/beginners_guide/CodeSchool-BeginnersGuideToWebDevelopment.pdf)
+- hosting [link, ru wiki](https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3)
+- dns [link, ru wiki](https://ru.wikipedia.org/wiki/DNS)
 - html/css/ DOM!!!
   - [dom, on learn.javascript.ru](https://learn.javascript.ru/document)
   - semantic html, styleguides
@@ -28,15 +31,18 @@
 - graphics editors (photoshop(win/ios) / sketch(ios) / gimp / inkscape -> zeplin / csshat / avocode)
   - нарезка, стили слоя, информация о тексте и размерах
   - vector vs raster
+  - [colors guide](https://css-tricks.com/nerds-guide-color-web/)
 - [google fonts old site](https://www.google.com/fonts) , [new site](https://fonts.google.com/)
 - [bulletproof-font-face](https://github.com/CSSLint/csslint/wiki/bulletproof-font-face) and [fontsquirrel](https://www.fontsquirrel.com/)
 - [DevTools in Browsers](https://developer.chrome.com/devtools) | [discover-devtools](http://discover-devtools.codeschool.com/)
+- [Devtools youtube ru](https://www.youtube.com/watch?v=nPYmp586EE0)
 - [Абсолютные и относительные ссылки](http://htmlbook.ru/samhtml/ssylki/absolyutnye-i-otnositelnye-ssylki)
 - [Bash: Основы командной строки, Hexlet](https://ru.hexlet.io/courses/bash)
 - [git official site](https://git-scm.com/)
   - [ru, video about git](https://www.youtube.com/watch?v=PEKN8NtBDQ0)
   - [try.github.io](https://try.github.io/levels/1/challenges/1)
   - [Шпаргалка по Git](https://medium.com/@ABatickaya/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0-%D0%BF%D0%BE-git-55eeea487676#.egt8ws81g)
+  - [git-diff-tips-and-tricks](https://blog.twobucks.co/git-diff-tips-and-tricks/)
 - [semver](http://semver.org/lang/ru/) and [picture](http://www.jontejada.com/blog/assets/semver03.png)
 - js - [eloquentjavascript_ru online](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/) ,
     [eloquentjavascript_ru github link](https://github.com/karmazzin/eloquentjavascript_ru)
@@ -53,23 +59,25 @@
   - [funfunfunction about this and objects](https://www.youtube.com/watch?v=PIkA60I0dKU)
   - objects: composition vs inheritance [Composition over Inheritance, funfunfunction](https://www.youtube.com/watch?v=wfMtDGfHWpA)
   - async patterns (callbacks, promises, events, streams)
-- jQuery
+- jQuery [book ru](http://anton.shevchuk.name/jquery-book/) and [article](http://frontender.info/writing-better-jquery-code/) about better jq code
 - Tooling (console/cmd/shell, git, NodeJS, npm, bower, gulp, template engines, preprocessors)
-- Ajax
+- Ajax, fetch ([fetch mdn link](https://developer.mozilla.org/en/docs/Web/API/Fetch_API)) and fetch [polyfill](https://github.com/github/fetch)
 - database (сущности, связи)
 - backend api endpoints / rest / restFull
+  - - Rest(restfull) [link, ru](http://eax.me/rest/)
 - MVC, abstraction, black box, Frameworks Basic (css/js)
 - CS50 intro and matherials from their [study site](https://study.cs50.net/)
+- [Function Composition](http://prgssr.ru/development/kompoziciya-funkcij.html)
+- [Carrying in JS](http://prgssr.ru/development/vvedenie-v-karrirovanie-v-javascript.html)
 - [Что дальше? видео с hexlet Введение в Javascript](https://www.youtube.com/watch?v=ro7dL-Dy3cQ)
 
 ## PRACTICE on github/codepen :godmode:
 
 - [learnlayout, ru](http://ru.learnlayout.com/)
-- [make this layout](https://onepagelove.com/serge-khineika)
 - git/github
 - gulp
+- webpack [confusing parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.865moi9x7)
 - dom/events/validation/list render like in twitch project (learn.javascript.ru)
-- gulp
 - [htmlbook practice](http://htmlbook.ru/practical)
 - [howtocenter in css](http://howtocenterincss.com/)
 - [site to practice components](http://flypixel.com/ui-elements)
@@ -96,6 +104,7 @@
 - [freeCodeCamp](https://www.freecodecamp.com/) :free:
 - [Hexlet](https://ru.hexlet.io/) :free: / :moneybag:
 - [htmlacademy](https://htmlacademy.ru/) :free: / :moneybag:
+- [codeschool + guide](https://www.codeschool.com/beginners-guide-to-web-development)
 
 ## Future learning
 
@@ -125,11 +134,13 @@
   - [Чревоугодие](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D1%87%D1%80%D0%B5%D0%B2%D0%BE%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5-e673f677b04b#.bynrynh8u)
   - [Алчность](https://medium.com/russian/7-%D0%B3%D1%80%D0%B5%D1%85%D0%BE%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0-%D0%B0%D0%BB%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C-c5b352d51dd4#.n54ggoby2)
 
+- [Как быть начинающим разработчиком и не сойти с ума](http://blog.csssr.ru/2016/09/19/how-to-be-a-beginner-developer/)
 - [Quantum Computers Explained – Limits of Human Technology](https://www.youtube.com/watch?v=JhHMJCUmq28)
 - [Wiki Unix](https://ru.wikipedia.org/wiki/UNIX)
 - [Linux intro](http://gentoo.theserverside.ru/gentoo-doc/Gentoo_doc-1.5-6.html)
 - [medium, Я б в верстальщики пошел](https://medium.com/russian/%D1%8F-%D0%B1-%D0%B2-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D1%89%D0%B8%D0%BA%D0%B8-%D0%BF%D0%BE%D1%88%D0%B5%D0%BB-4496f8eec698#.bfp6zlz8s)
 - [Разработка расширяемых компонентов на HTML и CSS, prgssr, ru](http://prgssr.ru/development/razrabotka-rasshiryaemyh-komponentov-html-i-css.html)
+- [install and play, css layout visualization](http://pesticide.io/)
 
 ## Sources
 

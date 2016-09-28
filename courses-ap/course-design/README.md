@@ -26,6 +26,7 @@
   - [websafecolors](https://websafecolors.info/)
   - [colorhunt](http://www.colorhunt.co/)
   - [materialpalette](https://www.materialpalette.com/)
+  - [nerds-guide-color-web](https://css-tricks.com/nerds-guide-color-web/)
 - Гайдлайн / Стайлгайд
   - [Создание стайлгайда для проекта](https://spark.ru/startup/peoplie/blog/6846/sozdanie-stajlgajda-dlya-proekta)
   - [example AirBnb](https://dribbble.com/shots/1669299-Airbnb-UI-Toolkit-Web)
@@ -36,6 +37,7 @@
   - [responsive patterns developers.google.com](https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns/)
 - UI/UX
   - [ui-ux, netology](http://netology.ru/programs/ui-ux)
+- Brief example (vintage [link to doc](http://vintage.com.ua/brief_vintage.doc))
 
 ## Tools
 
@@ -48,6 +50,9 @@
 - [Gimp](https://www.gimp.org/) :free:
 - [InkScape](https://inkscape.org/) :free:
 - [Paint.Net](http://www.getpaint.net/) :free:
+
+## Online Tools
+- [color-wheel, adobe](https://color.adobe.com/create/color-wheel/)
 
 ## Inspiration and practice
 
@@ -65,6 +70,9 @@
 - [cssawds](http://www.cssawds.com/)
 - [cssdesignawards](http://www.cssdesignawards.com/)
 
+## Work
+- [godesigner.ru](https://www.godesigner.ru/)
+
 ## Book
 
 ## Vocabulary
@@ -72,6 +80,7 @@
 ## Online courses
 
 ## Future learning
+- [design-better-forms](https://uxdesign.cc/design-better-forms-96fadca0f49c#.qigw01qo3)
 
 ### Video
 
