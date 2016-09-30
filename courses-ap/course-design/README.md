@@ -47,6 +47,7 @@
 - [Adobe InDesign](https://www.adobe.com/products/indesign.html) :moneybag:
 - [Sketch](https://www.sketchapp.com/) :moneybag: 99$ once
   - [just nice description with shortcuts](https://designcode.io/sketch)
+  - [youtube playlist, ru](https://www.youtube.com/playlist?list=PLIU76b8Cjem7Io2D-ROhrdmr42Cpg5Pzx)
 - [Gimp](https://www.gimp.org/) :free:
 - [InkScape](https://inkscape.org/) :free:
 - [Paint.Net](http://www.getpaint.net/) :free:
