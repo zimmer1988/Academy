@@ -38,6 +38,7 @@
 - UI/UX
   - [ui-ux, netology](http://netology.ru/programs/ui-ux)
 - Brief example (vintage [link to doc](http://vintage.com.ua/brief_vintage.doc))
+- [Another guide on redmouse.pro](http://redmouse.pro/design/)
 
 ## Tools
 
