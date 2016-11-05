@@ -4,10 +4,16 @@
 
 **base**: [on tilda.education web-design](http://tilda.education/courses/web-design/)
 
+- [Как я стала дизайнером за шесть месяцев - Хабрахабр](https://habrahabr.ru/post/312744/)
+- [Red mouse - Курсы по веб-дизайну](http://redmouse.pro/design/)
+
+###
+
 - Единицы измерения
   - [Единицы измерения: "px", "em", "rem", "%", "vh, vw, vmin, vmax", learn.javascript.ru](https://learn.javascript.ru/css-units)
 - Векторная и растровая графика [wikipedia](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0)
 - Форматы изображений (raw,svg,jpg/eg,png,tiff,bmp,gif)
+  - [Форматы изображений, htmlacademy.ru](https://htmlacademy.ru/blog/113-image-formats)
   - [форматы, цвет, глубина цвета, цветовая модель](http://web-design-courses.narod.ru/graphics.html)
 - Форматы цвета, цветовая модель (RGB девайсы и пк, HEX, CMYK типография)
 - DPI
