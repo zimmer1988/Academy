@@ -1,7 +1,7 @@
 Курсы
 -----
 
- 1. [Design](/design/README.md)
+ 1. [Design](design/README.md)
  2. [Frontend](/frontend/README.MD)
  2. [Git](/git.README.MD)
  3. [Javascript](/javascript/README.MD)
