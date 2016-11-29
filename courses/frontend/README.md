@@ -2,13 +2,13 @@
 
 ## Map (in order, from top to bottom):
 
-- english (all docs, plugins, etc..)
-- pc as black box (simplest description and explanation)
+- English (all docs, plugins, etc..)
+- PC as black box (simplest description and explanation)
 - Software (os, editor, etc tools)
-- file encoding [link 1, ru](http://dimox.name/utf-8-without-bom/), [link 2, en](http://kunststube.net/encoding/)
-- bit byte kbyte, 2binary/10/hex(colors and etc) positional numeral system
+- File encoding [link 1, ru](http://dimox.name/utf-8-without-bom/), [link 2, en](http://kunststube.net/encoding/)
+- bit/byte/kbyte, 2binary/10/hex(colors and etc) positional numeral system
  - [bit byte and etc, stanford](https://web.stanford.edu/class/cs101/bits-bytes.html)
-- math (expressions (x=y+z), functions(math funcs), matrix), [mathisfun](http://www.mathsisfun.com/index.htm)
+- Math (expressions (x=y+z), functions(math funcs), matrix), [mathisfun](http://www.mathsisfun.com/index.htm)
   - [function](http://www.mathsisfun.com/definitions/function.html)
   - [algorithm](http://www.mathsisfun.com/definitions/algorithm.html)
   - [0.30000000000000004](http://0.30000000000000004.com/)
@@ -64,7 +64,7 @@
 - Ajax, fetch ([fetch mdn link](https://developer.mozilla.org/en/docs/Web/API/Fetch_API)) and fetch [polyfill](https://github.com/github/fetch)
 - database (сущности, связи)
 - backend api endpoints / rest / restFull
-  - - Rest(restfull) [link, ru](http://eax.me/rest/)
+  - Rest(restfull) [link, ru](http://eax.me/rest/)
 - MVC, abstraction, black box, Frameworks Basic (css/js)
 - CS50 intro and matherials from their [study site](https://study.cs50.net/)
 - [Function Composition](http://prgssr.ru/development/kompoziciya-funkcij.html)
@@ -92,10 +92,12 @@
 - [jscourse tasks](http://jscourse.com/tasks)
 - [zfort-js-course](https://github.com/roman01la/zfort-js-course)
 
-## Book
+## Books
+
 - [frontendhandbook (biggest)](http://www.frontendhandbook.com/)
 
 ## Vocabulary
+
 - [functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
 - [webstandards ru, dictionary](https://github.com/web-standards-ru/dictionary)
 
