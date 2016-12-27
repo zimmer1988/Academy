@@ -147,6 +147,7 @@
 - [Разработка расширяемых компонентов на HTML и CSS, prgssr, ru](http://prgssr.ru/development/razrabotka-rasshiryaemyh-komponentov-html-i-css.html)
 - [install and play, css layout visualization](http://pesticide.io/)
 - [google guide-to-technical-development, en](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+- [patterns, hexlet, ru](https://www.youtube.com/watch?v=wX6BBaQZpzE)
 
 ## Sources
 
