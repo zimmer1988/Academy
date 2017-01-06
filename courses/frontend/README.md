@@ -71,6 +71,7 @@
 - [Carrying in JS](http://prgssr.ru/development/vvedenie-v-karrirovanie-v-javascript.html)
 - [Что дальше? видео с hexlet Введение в Javascript](https://www.youtube.com/watch?v=ro7dL-Dy3cQ)
 - [Хороший каталог общих паттернов design-patterns](https://refactoring.guru/ru/design-patterns/catalog)
+- [programming-mental-models, medium](https://medium.com/@preethikasireddy/programming-mental-models-47ccc65eb334#.558qjslzo)
 
 ## PRACTICE on github/codepen :godmode:
 
