@@ -70,6 +70,7 @@
 - [Function Composition](http://prgssr.ru/development/kompoziciya-funkcij.html)
 - [Carrying in JS](http://prgssr.ru/development/vvedenie-v-karrirovanie-v-javascript.html)
 - [Что дальше? видео с hexlet Введение в Javascript](https://www.youtube.com/watch?v=ro7dL-Dy3cQ)
+- [Хороший каталог общих паттернов design-patterns](https://refactoring.guru/ru/design-patterns/catalog)
 
 ## PRACTICE on github/codepen :godmode:
 
